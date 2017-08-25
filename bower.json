@@ -1,0 +1,30 @@
+{
+  "name": "JeansWebsite",
+  "description": "Website for Jean",
+  "main": "index.html",
+  "keywords": [
+    "Jean",
+    "Tashima",
+    "Graphic",
+    "Designer",
+    "UX",
+    "Designer"
+  ],
+  "authors": [
+    "Geoffrey Price"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "angular": "^1.6.4"
+  }
+}

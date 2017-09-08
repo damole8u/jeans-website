@@ -13,16 +13,16 @@ p {
   text-align: center;
  }
  
- #topBanner {
+#topBanner {
             height : 5em;
             background-color : rgb(92,218,133);
   }
   
-  #examples{
+#examples{
              background-color : rgb(92,218,133);
    }
    
-   #examples p{
+#examples p{
              color : white;
     }
 

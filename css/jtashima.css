@@ -36,9 +36,22 @@ p {
 
 
 #containerOF-ing-container{
-    padding: 40px
+    padding: 40px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
 }
 
 #who{
-    margin: 2em
+    margin: 2em;
+    width: 100%;
+}
+
+#containerOF-who-container{
+    padding: 40px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
 }

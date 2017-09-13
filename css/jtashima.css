@@ -6,11 +6,15 @@ body {
    
     text-align: center;
     font-family: "Proxima Nova";
-    font-size: 2.5vw;
+    font-size: 3vw;
 }
 
 #logo{
     margin: 2em
+}
+
+#logo img{
+    padding-bottom: 1em;
 }
 
 p {
@@ -30,7 +34,8 @@ p {
    }
    
 #examples p{
-             color : white;
+        color : white;
+        padding-top: 1em;
     }
 
 
